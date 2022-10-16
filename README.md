@@ -33,7 +33,7 @@ Depending upon the algorithm (TBD) based on best possible battery saving mechani
 
 ## Software Development Setup:
 Can go forward with 2 options -> 
-1. Using SDK provided by Quectel
+1. Using SDK provided by Quectel (https://www.quectel.com/ProductDownload/M66_OpenCPU_SDK.html)
 2. Using Unofficial Quectel Core in Arduino IDE (https://github.com/Wiz-IO/Arduino-Quectel-M66) 	
 
 
