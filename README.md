@@ -6,11 +6,27 @@
 
  Components to be used: 
  1. M66 Breakout board Module
-    https://cdn11.bigcommerce.com/s-3fd3md1ghs/images/stencil/1280x1280/products/31813/14076/011-EVE-NGSM__83889.1651080143.jpg?c=2
+   ![image](https://user-images.githubusercontent.com/16812616/196049650-955909c4-1c54-4362-aacd-3406e010b11f.png)
+
  
  2. NEO 6M GPS Module
-    https://robu.in/wp-content/uploads/2016/03/Ublox-Neo-6M-GPS-462x462.jpg
+   ![image](https://user-images.githubusercontent.com/16812616/196049633-c9af5f26-763e-49ac-81fd-db269d107f1f.png)
+
  
- 3. Low power acclerometer to be decided
+ 3. Low power acclerometer to be decided -> Should have an output external interrupt to wake up the m66 controller from deep sleep
+ 
+ 4. Power Management System:
+  4.1 DC to DC buck converter to be decided: 
+      Reqirements -> Powering up M66 Development Board (4.1 V, Peak current requirement 1.6A)
+                     NEO 6M Module (3.3V, 45mA)
+                     Acclerometer (TBD)
+  4.2 Back up Battery -> around 15000maH will suffice I think. (LiPo Battery preferred, with BMS and charging mechanism)
+ 
+ Application Diagram:
+![m66flow](https://user-images.githubusercontent.com/16812616/196050545-c65e4327-e1c5-4a12-8b7f-35237bfbf969.png)
+
+Depending upon the algorithm (TBD) based on best possible battery saving mechanism switching between Battery Power and Back up Power will be Done
+
+
 
  
