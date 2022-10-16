@@ -27,6 +27,13 @@
 
 Depending upon the algorithm (TBD) based on best possible battery saving mechanism switching between Battery Power and Back up Power will be Done
 
+Software Development Setup:
+Can go forward with 2 options -> 
+1. Using SDK provided by Quectel
+2. Using Unofficial Quectel Core in Arduino IDE (https://github.com/Wiz-IO/Arduino-Quectel-M66) 	
+
+
+
 
 
  
