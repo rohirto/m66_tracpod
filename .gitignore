@@ -1,1 +1,8 @@
-dir_to_ignore/.metadata/
+# ignore all files in any directory named build
+firmware/Debug/
+
+# ignore all files in any directory named build
+firmware/Release/
+
+# ignore all files in any directory named build
+firmware/.metadata/
