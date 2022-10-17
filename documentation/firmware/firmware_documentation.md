@@ -2,7 +2,7 @@
 
 # Using Eclipse IDE and M66 SDK for Eclipse
 ## Toolchain Setup:
-1. Open the link:
+1. Open the link: https://www.quectel.com/ProductDownload/M66_OpenCPU_SDK.html
 2. Download all the Files (4 files are there)
 3. Follow the steps given in M66_OpenCPU_Documentation/OpenCPU_GCC_Eclipse_User_Guide_V1 0_Preliminary.pdf
 4. It will consequently lead you to follow GCC installation given in document Quectel_OpenCPU_GCC_Installation_Guide_V1.1.pdf
