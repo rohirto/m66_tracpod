@@ -28,5 +28,5 @@ According to the datasheet of M66 module, DTR Pin can be used as an External Int
 GPS Vcc needs to be controlled via a low power MOSFET switch through the M66 module. According to datasheet the RI (RING) Pin can be reconfigured as a GPIO pin to control the GPS module.
 
 ## Schematic Diagram
-
+Schematic diagram is made through EasyEDA online editor
 
