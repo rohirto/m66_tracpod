@@ -18,3 +18,15 @@ So steps:
 2. TX pin will be used for debug messages purpose 
 3. RX pin will be used to receive data from GPS module 
 
+
+## External Interrupt
+
+According to the datasheet of M66 module, DTR Pin can be used as an External Interrupt pin to trigger the M66 module. The External Trigger is to be provided by an acclerometer.
+
+## GPS Switch
+
+GPS Vcc needs to be controlled via a low power MOSFET switch through the M66 module. According to datasheet the RI (RING) Pin can be reconfigured as a GPIO pin to control the GPS module.
+
+## Schematic Diagram
+
+
