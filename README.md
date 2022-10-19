@@ -36,6 +36,9 @@ Can go forward with 2 options ->
 1. Using SDK provided by Quectel (https://www.quectel.com/ProductDownload/M66_OpenCPU_SDK.html)
 2. Using Unofficial Quectel Core in Arduino IDE (https://github.com/Wiz-IO/Arduino-Quectel-M66) 	
 
+## Hardware Development: 
+1. Use of EasyEDA online tool to develop the schematics which could be found in hardware folder
+
 
 
 
