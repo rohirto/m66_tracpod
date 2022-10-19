@@ -21,3 +21,6 @@
 
 ## Developing from the Sample Project given by Quectel
 The sample project in SDK can be understood through the documentation given in Quectel_OpenCPU_User_Guide_V5.1.pdf file. Also various other application notes are gven in the OpenCPU documentation for purposes like Hardware design, FOTA, RIL, QFLASH etc. All of this must be understood to make a robust and efficent device 
+
+
+## References 
