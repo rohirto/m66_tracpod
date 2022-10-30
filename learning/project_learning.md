@@ -30,6 +30,8 @@
     
     https://www.instructables.com/Introduction-Turn-a-Raspberry-Pi-Into-a-GPS-Tracki/
     
+    https://www.traccar.org/secure-connection/   (In future HTTPS implementation)
+    
 2. osmand GPS protocol: 
 
     https://www.traccar.org/forums/topic/arduino-protocol/
