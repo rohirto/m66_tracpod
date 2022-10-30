@@ -29,6 +29,12 @@
     https://www.traccar.org/clones/
     
     https://www.instructables.com/Introduction-Turn-a-Raspberry-Pi-Into-a-GPS-Tracki/
+    
+2. osmand GPS protocol: 
+
+    https://www.traccar.org/forums/topic/arduino-protocol/
+    
+    https://www.traccar.org/osmand/
 
 
 
