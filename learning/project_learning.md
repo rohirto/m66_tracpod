@@ -19,6 +19,10 @@
 3. Neo-6M GPS module:
     
     https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/
+    
+    
+4. Hardware Development Pointers: 
+    http://www.gammon.com.au/forum/?id=12106
 
 
 
